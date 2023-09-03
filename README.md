@@ -1,4 +1,4 @@
-# Churn Analysis Project\
+# Churn Analysis Project
 
 ## Overview
 This README provides an overview of the Churn Analysis project. The project aims to understand and predict customer churn within a business or service. It involves data analysis, preprocessing, and the application of various machine learning algorithms to analyze and predict customer churn.
